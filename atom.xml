@@ -3,11 +3,11 @@
   <title>零度七号射手</title>
   
   <subtitle>No matter what you want, fighting for it yourself no matter how difficult it is.</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zdshooter.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zdshooter.github.io/project/"/>
   <updated>2023-01-04T14:20:22.501Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zdshooter.github.io/project/</id>
   
   <author>
     <name>zdshooter</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>concatme</title>
-    <link href="http://example.com/2023/01/04/concatme/"/>
-    <id>http://example.com/2023/01/04/concatme/</id>
+    <link href="https://zdshooter.github.io/project/2023/01/04/concatme/"/>
+    <id>https://zdshooter.github.io/project/2023/01/04/concatme/</id>
     <published>2023-01-04T14:20:22.000Z</published>
     <updated>2023-01-04T14:20:22.501Z</updated>
     
